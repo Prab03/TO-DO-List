@@ -1,0 +1,27 @@
+body{
+    color: rgb(248, 128, 148);
+    font-family: ‘Dekko’;font-size: 22px;
+    background: url(todo.jpg);
+}
+button{
+    margin-top: 80px;   
+    margin-left: 600px;
+    height: 80px;
+    width: 300px;
+}
+.b1{
+    background-color: rgb(239, 167, 255);
+    font-family: ‘Dekko’;font-size: 22px;
+    color: rgb(160, 0, 252);
+}
+.b1:hover{
+    background-color: rgb(255, 234, 0);
+}
+.b2{
+    background-color: rgb(255, 52, 174);
+    font-family: ‘Dekko’;font-size: 22px;
+    color: rgb(102, 0, 255);
+}
+.b2:hover{
+    background-color: rgb(255, 54, 54);
+}
